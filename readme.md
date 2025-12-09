@@ -1,6 +1,6 @@
 # Hey, I’m Shishir 👋
 
-I’m a **Fullstack Blockchain Developer** and crypto enthusiast.
+I’m a **Fullstack Blockchain Developer** and **Crypto Enthusiast**.
 
 <p align="left">
   <a href="mailto:krshishir28@gmail.com">
