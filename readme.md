@@ -1,10 +1,31 @@
 # Hey, I’m Shishir 👋
 
-<!-- BADGES -->
+I’m a **Fullstack Blockchain Developer** and crypto enthusiast.
+
 <p align="left">
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://t.me/YOUR_TELEGRAM">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+## 👨‍💻 About Me
+
+I started my coding journey in 2021 with web development and, over time, naturally gravitated toward building things—mostly small, fast, and useful micro-SaaS projects.
+
+I launched two such projects:
+
+- [**SearchLens**](https://searchlens.co/) – helped marketers explore SEO keywords more intuitively.
+- [**Onmail**](http://beonmail.com/) – a productivity-focused email client for simplified inbox management
+
+Since I previously worked in digital marketing, I understood many of the industry’s pain points. These projects taught me to ship quickly, listen to users, and experiment without overthinking.
+
+I love building and sharing projects online.
+**Follow my work**
+
+<p align="left"> 
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -17,25 +38,7 @@
   <a href="https://dorahacks.io/hacker/YOUR_DORAHACKS">
     <img src="https://img.shields.io/badge/DoraHacks-FF6A00?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
 </p>
-
----
-
-## About Me
-
-I’m a **Fullstack Blockchain Developer** and crypto enthusiast.
-
-I started my coding journey in 2021 with web development and, over time, naturally gravitated toward building things—mostly small, fast, and useful micro-SaaS projects.
-
-I launched two such projects:
-
-- **SearchLens** – helped marketers explore SEO keywords more intuitively
-- **Onmail** – a productivity-focused email client for simplified inbox management
-
-Since I previously worked in digital marketing, I understood many of the industry’s pain points. These projects taught me to ship quickly, listen to users, and experiment without overthinking.
 
 ---
 
