@@ -32,11 +32,11 @@ I love building and sharing projects online!
   <a href="https://x.com/krshishir_">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://devfolio.co/@shishirkr/readme-md">
-    <img src="https://img.shields.io/badge/Devfolio-000000?style=for-the-badge&logo=devfolio&logoColor=white" />
-  </a>
   <a href="https://dorahacks.io/hacker/krshishir/">
     <img src="https://img.shields.io/badge/DoraHacks-FF6A00?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://devfolio.co/@shishirkr/readme-md">
+    <img src="https://img.shields.io/badge/Devfolio-037bfc?style=for-the-badge&logo=devfolio&logoColor=white" />
   </a>
 </p>
 
@@ -52,9 +52,9 @@ At the core, I just enjoy building things, learning by doing, and exploring new 
 
 ### Achievements
 
-- Participated in **20+ hackathons**, with **6 wins**
-- Built and launched **two SaaS platforms** on Product Hunt
-- Completed internships at **two startups**
+- Participated in **20+ hackathons**, with **6 wins**.
+- Built and launched **two SaaS platforms** on Product Hunt.
+- Completed internships at **two startups**.
 
 ### Updates (December 2025)
 
